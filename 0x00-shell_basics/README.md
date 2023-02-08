@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
+Create a script that copies all HTML files from the cwd to pwd, but only copy files that didn't exist in the pwd or were newer than the versions in  pwd
