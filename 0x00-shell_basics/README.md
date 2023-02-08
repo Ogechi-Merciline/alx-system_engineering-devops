@@ -1,2 +1,2 @@
 #!/bin/bash
-Write a script that lists all files beginning with . in the current directory, the parent working directory and /boot directory, in long format
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
