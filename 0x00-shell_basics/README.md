@@ -1,2 +1,2 @@
 #!/bin/bash
-Write a script that lists all files beginning with . in the current directory and directory and the /boot directory (in this order), in long format
+Write a script that lists all files beginning with . in the current directory, the parent working directory and /boot directory, in long format
